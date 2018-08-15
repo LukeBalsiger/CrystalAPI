@@ -1,5 +1,5 @@
 {
-  "name": "RESTService",
+  "name": "CrystalAPI",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -29,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LukeBalsiger/RESTService.git"
+    "url": "git+https://github.com/LukeBalsiger/CrystalAPI.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LukeBalsiger/RESTService/issues"
+    "url": "https://github.com/LukeBalsiger/CrystalAPI/issues"
   },
-  "homepage": "https://github.com/LukeBalsiger/RESTService#readme"
+  "homepage": "https://github.com/LukeBalsiger/CrystalAPI#readme"
 }
