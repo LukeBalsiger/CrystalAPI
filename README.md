@@ -1,6 +1,6 @@
 # RESTService
 
-Install as windows service with node-windows
+run "node service_install.js" to run as a service
 
 Add src/config/db.js with module.exports = {
                                 url : ""
