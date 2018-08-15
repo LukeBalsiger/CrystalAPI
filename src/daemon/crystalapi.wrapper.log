@@ -1,0 +1,38 @@
+2018-08-15 07:40:07 - Starting C:\Program Files (x86)\nodejs\node.exe  --harmony C:\Users\lbalsiger\ProjDev\CrystalAPI\node_modules\node-windows\lib\wrapper.js --file C:\users\lbalsiger\ProjDev\CrystalAPI\src\app.js --log "CrystalAPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-08-15 07:40:07 - Started 9036
+2018-08-15 07:44:02 - Stopping crystalapi.exe
+2018-08-15 07:44:02 - ProcessKill 9036
+2018-08-15 07:44:03 - Found child process: 11788 Name: node.exe
+2018-08-15 07:44:03 - Stopping process 11788
+2018-08-15 07:44:03 - Send SIGINT 11788
+2018-08-15 07:44:03 - SIGINT to 11788 failed - Killing as fallback
+2018-08-15 07:44:03 - Stopping process 9036
+2018-08-15 07:44:03 - Send SIGINT 9036
+2018-08-15 07:44:03 - SIGINT to9036 successful
+2018-08-15 07:44:03 - Finished crystalapi.exe
+2018-08-15 07:44:04 - Starting C:\Program Files (x86)\nodejs\node.exe  --harmony C:\Users\lbalsiger\ProjDev\CrystalAPI\node_modules\node-windows\lib\wrapper.js --file C:\users\lbalsiger\ProjDev\CrystalAPI\src\app.js --log "CrystalAPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-08-15 07:44:04 - Started 10144
+2018-08-15 07:44:59 - Stopping crystalapi.exe
+2018-08-15 07:44:59 - ProcessKill 10144
+2018-08-15 07:44:59 - Found child process: 1060 Name: node.exe
+2018-08-15 07:45:00 - Stopping process 1060
+2018-08-15 07:45:00 - Send SIGINT 1060
+2018-08-15 07:45:00 - SIGINT to 1060 failed - Killing as fallback
+2018-08-15 07:45:00 - Stopping process 10144
+2018-08-15 07:45:00 - Send SIGINT 10144
+2018-08-15 07:45:00 - SIGINT to10144 successful
+2018-08-15 07:45:00 - Finished crystalapi.exe
+2018-08-15 07:45:01 - Starting C:\Program Files (x86)\nodejs\node.exe  --harmony C:\Users\lbalsiger\ProjDev\CrystalAPI\node_modules\node-windows\lib\wrapper.js --file C:\users\lbalsiger\ProjDev\CrystalAPI\src\app.js --log "CrystalAPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-08-15 07:45:01 - Started 15084
+2018-08-15 07:45:32 - Stopping crystalapi.exe
+2018-08-15 07:45:32 - ProcessKill 15084
+2018-08-15 07:45:32 - Found child process: 10460 Name: node.exe
+2018-08-15 07:45:32 - Stopping process 10460
+2018-08-15 07:45:32 - Send SIGINT 10460
+2018-08-15 07:45:32 - SIGINT to 10460 failed - Killing as fallback
+2018-08-15 07:45:32 - Stopping process 15084
+2018-08-15 07:45:32 - Send SIGINT 15084
+2018-08-15 07:45:32 - SIGINT to15084 successful
+2018-08-15 07:45:32 - Finished crystalapi.exe
+2018-08-15 07:45:33 - Starting C:\Program Files (x86)\nodejs\node.exe  --harmony C:\Users\lbalsiger\ProjDev\CrystalAPI\node_modules\node-windows\lib\wrapper.js --file C:\users\lbalsiger\ProjDev\CrystalAPI\src\app.js --log "CrystalAPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-08-15 07:45:33 - Started 9080

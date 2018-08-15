@@ -17,6 +17,7 @@
     "gulp-util": "^3.0.8",
     "mocha": "^3.5.0",
     "mongoose": "^4.11.4",
+    "node-windows": "^0.1.14",
     "pokemontcgsdk": "^1.0.0",
     "selenium-webdriver": "^3.5.0",
     "sinon": "^3.2.0",
