@@ -36,3 +36,27 @@
 2018-08-15 07:45:32 - Finished crystalapi.exe
 2018-08-15 07:45:33 - Starting C:\Program Files (x86)\nodejs\node.exe  --harmony C:\Users\lbalsiger\ProjDev\CrystalAPI\node_modules\node-windows\lib\wrapper.js --file C:\users\lbalsiger\ProjDev\CrystalAPI\src\app.js --log "CrystalAPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
 2018-08-15 07:45:33 - Started 9080
+2018-08-15 09:11:42 - Stopping crystalapi.exe
+2018-08-15 09:11:42 - ProcessKill 9080
+2018-08-15 09:11:42 - Found child process: 8552 Name: node.exe
+2018-08-15 09:11:42 - Stopping process 8552
+2018-08-15 09:11:42 - Send SIGINT 8552
+2018-08-15 09:11:43 - SIGINT to 8552 failed - Killing as fallback
+2018-08-15 09:11:43 - Stopping process 9080
+2018-08-15 09:11:43 - Send SIGINT 9080
+2018-08-15 09:11:43 - SIGINT to9080 successful
+2018-08-15 09:11:43 - Finished crystalapi.exe
+2018-08-15 09:11:43 - Starting C:\Program Files (x86)\nodejs\node.exe  --harmony C:\Users\lbalsiger\ProjDev\CrystalAPI\node_modules\node-windows\lib\wrapper.js --file C:\users\lbalsiger\ProjDev\CrystalAPI\src\app.js --log "CrystalAPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-08-15 09:11:43 - Started 10964
+2018-08-15 09:19:08 - Stopping crystalapi.exe
+2018-08-15 09:19:08 - ProcessKill 10964
+2018-08-15 09:19:08 - Found child process: 4164 Name: node.exe
+2018-08-15 09:19:09 - Stopping process 4164
+2018-08-15 09:19:09 - Send SIGINT 4164
+2018-08-15 09:19:09 - SIGINT to 4164 failed - Killing as fallback
+2018-08-15 09:19:09 - Stopping process 10964
+2018-08-15 09:19:09 - Send SIGINT 10964
+2018-08-15 09:19:09 - SIGINT to10964 successful
+2018-08-15 09:19:09 - Finished crystalapi.exe
+2018-08-15 09:19:09 - Starting C:\Program Files (x86)\nodejs\node.exe  --harmony C:\Users\lbalsiger\ProjDev\CrystalAPI\node_modules\node-windows\lib\wrapper.js --file C:\users\lbalsiger\ProjDev\CrystalAPI\src\app.js --log "CrystalAPI wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-08-15 09:19:09 - Started 5304
